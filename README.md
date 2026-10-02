@@ -11,7 +11,7 @@ The goal of this project is to demonstrate practical data analytics skills using
 
 ## 📂 Dataset
 
-* Source: (Add your dataset source here – e.g., Kaggle / CSV file)
+* Source: choose any dataset from kaggle
 * Format: CSV
 * Description: The dataset contains customer purchase behavior including categories, items, discounts, and transactions.
 
@@ -23,7 +23,6 @@ The goal of this project is to demonstrate practical data analytics skills using
 * **SQL** (PostgreSQL / MySQL / SQL Server)
 * **DbVisualizer** (for database management)
 * **Power BI** (for dashboard creation)
-* **Gamma** (for presentation)
 * **Jupyter Notebook**
 
 ---
